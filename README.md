@@ -5,3 +5,4 @@
 		1、git branch gh-pages	创建一个分支，分支名gh-pages
 		2、git checkout gh-pages	使用这个分支
 		3、git push -u origin gh-pages	把本地仓库的代码提交到远程的gh-pages分支
+ ![image](https://github.com/appursuefaith/Colorful/images/bg.jpg)
