@@ -5,6 +5,7 @@
 		1、git branch gh-pages	创建一个分支，分支名gh-pages
 		2、git checkout gh-pages	使用这个分支
 		3、git push -u origin gh-pages	把本地仓库的代码提交到远程的gh-pages分支
+	方法二：直接在github项目里新建branch分支gh-pages
+		1、如果要修改默认分支：打开Settings->branchs->更改默认的分支
+		2、更改默认分支后，如果需要删除master旧分支：git branch -D master
 ![Image text](https://raw.githubusercontent.com/appursuefaith/Colorful/gh-pages/images/bg.jpg)
-https://raw.githubusercontent.com/appursuefaith/Colorful/gh-pages/images/bg.jpg
- ![image](https://github.com/appursuefaith/Colorful/images/bg.jpg)
