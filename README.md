@@ -1,2 +1,2 @@
 # Colorful
-https://appursuefaith.github.io/Colorful/
+https://appursuefaith.github.io/Colorful/index.html
