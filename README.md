@@ -1,5 +1,5 @@
 ## Colorful:五彩斑斓的黑主题
-项目演示：[Colorful.com](https://appursuefaith.github.io/Colorful/index.html)
+项目演示：[Colorful.com](https://JianMing-Zhong.github.io/Colorful/index.html)
 ## https://github用户名.github.io/项目名/入口文件
 注意：使用该网址打开项目会提示404，要配置分支，操作如下：
 - git branch gh-pages	创建一个分支，分支名gh-pages
